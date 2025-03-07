@@ -166,6 +166,4 @@ export const questions = [
   }
 ];
 // score txt 
-// autentication 
 // store answers 
-// shuffle questions 
